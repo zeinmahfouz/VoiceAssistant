@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zein Assistant</string>
+
+    <string name="first_message">Hello, How can I help you?</string>
+    <string name="second_message">Can you tell me something</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">f3766dd8ce87fcf440f48b4b87be2210</string>
+</resources>
